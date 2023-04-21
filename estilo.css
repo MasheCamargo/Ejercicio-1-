@@ -1,0 +1,13 @@
+/*Selector por medio de etiqueta*/
+*{
+    color:blue;
+}
+h1 {
+    color: Red;
+    text-align:center;
+    display:block;
+}
+
+    
+
+
