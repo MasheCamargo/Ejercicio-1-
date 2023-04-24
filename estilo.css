@@ -6,10 +6,18 @@ h1 {
     color: Red;
     text-align:center;
     display:block;
+    block-size: 20px;
+    font-family:Helvetica;
+    font-weight: 800;
+
 }
 
 h2{
     border: 20px;
+    text-align: center;
 } 
 
+.Resumen{
+    margin-block:20%;
 
+}
